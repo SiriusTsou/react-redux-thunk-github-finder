@@ -11,7 +11,8 @@ Please check out the [Official Site Setup](https://facebook.github.io/react/docs
 1. open your terminal
 2. `$git clone https://github.com/SiriusTsou/react-redux-thunk-github-finder.git`
 3. `$cd react-redux-thunk-github-finder`
-3. `npm run dev`
+4. `npm i`
+5. `npm run dev`
 
 ## Way to Go
 
@@ -36,7 +37,7 @@ Please check out the [Official Site Setup](https://facebook.github.io/react/docs
 ## References
 1. [React 官方網站](https://facebook.github.io/react/)
 2. [Redux 官方文件](http://redux.js.org/index.html)
-4. [Redux-Thunk 官方文件](https://github.com/gaearon/redux-thunk)
+3. [Redux-Thunk 官方文件](https://github.com/gaearon/redux-thunk)
 
 ## License
 MIT
